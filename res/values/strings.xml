@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inteliment</string>
+    <string name="name2">Scenario2</string>
+    <string name="navigate">Navigate</string>
+
+    <string name="name1">Scenario1</string>
+    <string name="item">Item</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
+    <string name="item4">Item 4</string>
+    <string name="item5">Item 5</string>
+    
+    <string name="tv1">TextView1</string>
+    <string name="tv2">TextView2</string>
+    <string name="tv3">TextView3</string>
+    
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+
+</resources>

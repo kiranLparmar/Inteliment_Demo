@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <color name="checkbox_active">#6633b5e5</color>
+    <color name="checkbox_inactive">#ffffffff</color>
+    
+    <color name="redBtn">#c75555</color>
+    <color name="blueBtn">#4fafee</color>
+    <color name="greenBtn">#60a949</color>
+    
+    <color name="divider">#6d716c</color>
+</resources>
